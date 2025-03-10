@@ -1,0 +1,14 @@
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/bin/Debug/net8.0/CustomStack
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/bin/Debug/net8.0/CustomStack.deps.json
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/bin/Debug/net8.0/CustomStack.runtimeconfig.json
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/bin/Debug/net8.0/CustomStack.dll
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/bin/Debug/net8.0/CustomStack.pdb
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/obj/Debug/net8.0/CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/obj/Debug/net8.0/CustomStack.AssemblyInfoInputs.cache
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/obj/Debug/net8.0/CustomStack.AssemblyInfo.cs
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/obj/Debug/net8.0/CustomStack.csproj.CoreCompileInputs.cache
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/obj/Debug/net8.0/CustomStack.dll
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/obj/Debug/net8.0/refint/CustomStack.dll
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/obj/Debug/net8.0/CustomStack.pdb
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/obj/Debug/net8.0/CustomStack.genruntimeconfig.cache
+/Users/mangekyosharingan/Desktop/CSharp/CustomStack/obj/Debug/net8.0/ref/CustomStack.dll
